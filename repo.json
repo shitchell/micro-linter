@@ -1,5 +1,5 @@
 [{
-  "Name": "nordcolors",
+  "Name": "linter",
   "Description": "The default micro linter",
   "Tags": ["lint", "linter"],
   "Website": "https://github.com/shitchell/micro-linter/",
