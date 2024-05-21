@@ -1,0 +1,15 @@
+[{
+  "Name": "nordcolors",
+  "Description": "The default micro linter",
+  "Tags": ["lint", "linter"],
+  "Website": "https://github.com/shitchell/micro-linter/",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/shitchell/micro-linter/archive/refs/tags/v1.0.0.zip",
+      "Require": {
+        "micro": ">=1.0.0"
+      }
+    }
+  ]
+}]
